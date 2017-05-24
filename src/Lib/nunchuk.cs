@@ -45,7 +45,7 @@ internal class NunchukKey {
 	 *
 	 * Methods:
 	 *  int ReceiveValue (float) : Proves a value and sends the
-									value to the system
+		 value to the system
 	 *  bool SendSystemChar () : Sends the key value to the system
 	*/
 	
